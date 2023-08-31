@@ -1,0 +1,6 @@
+Eu quero um jogo de pong em Javascript. Eu quero usar a biblioteca p5js. É um jogo de um jogador versus o computador. A inteligência do computador é bem simples: quando o jogador toca na bola, a raquete do computador escolhe uma posição aleatória e vai para aquela posição. Não quero pontos. Quando tem gol, a bola volta ao centro com um novo movimento aleatório. Me mostre primeiro somente o arquivo hmtl. Sem css, sem javascript.
+-----------------------------------------------
+Agora por favor me de o arquivo sketch.js
+-----------------------------------------------
+Queremos duas barras horizontais, uma no topo e uma embaixo da tela para mostrar que quando a bola chega nessas bordas, ela quica. Isso significa que ao invés de quicar no limite do Y do canvas, vai quicar agora nessas bordas finas. A espessura delas é de 5.
+-----------------------------------------------
