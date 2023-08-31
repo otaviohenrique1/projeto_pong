@@ -4,3 +4,5 @@ Agora por favor me de o arquivo sketch.js
 -----------------------------------------------
 Queremos duas barras horizontais, uma no topo e uma embaixo da tela para mostrar que quando a bola chega nessas bordas, ela quica. Isso significa que ao invés de quicar no limite do Y do canvas, vai quicar agora nessas bordas finas. A espessura delas é de 5.
 -----------------------------------------------
+Altere o código para a velocidade da bola mudar a cada vez que ocorrer um impacto com a raquete.
+-----------------------------------------------
