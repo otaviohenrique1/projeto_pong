@@ -6,8 +6,8 @@ function setup() {
   raqueteJogador = new Raquete(30, height / 2, 10, 60);
   raqueteComputador = new Raquete(width - 40, height / 2, 10, 60);
   bola = new Bola(width / 2, height / 2, 10);
-  barraSuperior = new Barra(0, 5, width, 5);
-  barraInferior = new Barra(0, height - 5, width, 5);
+  barraSuperior = new Barra(0, 0, width, 5);
+  barraInferior = new Barra(0, height, width, 5);
 }
 
 function draw() {
